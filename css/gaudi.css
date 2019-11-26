@@ -7,14 +7,14 @@ body {
   font : 11pt georgia,sans-serif;
   line-height: 120%;
   color : #555753;
-  background : #fff url(../images/background.jpg) no-repeat;
+  background : #fff url(../img/background.jpg) no-repeat;
   background-size: cover;  
 }
 
 .container {
   width : 80%;
   margin: 0 auto;
-  background: url(../images/YELLOW-BACKGROUND.gif) no-repeat;
+  background: url(../img/YELLOW-BACKGROUND.gif) no-repeat;
   background-size :cover;
 }
 
